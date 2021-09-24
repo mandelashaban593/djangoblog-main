@@ -162,3 +162,5 @@ LOGOUT_REDIRECT_URL = 'home'
 
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+#https://medium.com/@tsolakou.a/deploy-a-django-app-on-heroku-using-github-1a57a7ceb29
