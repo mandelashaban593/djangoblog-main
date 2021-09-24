@@ -27,10 +27,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-kfqz(fwrpss6)ta2d@nkr42z5%mf@b7rtkn&xi8h0*vd$!8&oo'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 
-ALLOWED_HOSTS = ['wadupp.herokuapp.com', '127.0.0.1', 'www.wadupp.com']
+ALLOWED_HOSTS = ['wadupp.herokuapp.com', '127.0.0.1', 'www.wadupp.com', '*']
 
 
 
